@@ -67,6 +67,7 @@ func (p *NeighborhoodParser) parseFile(basePath string) (map[int]models.Neighbor
 
 		reader := csv.NewReader(dec)
 		reader.Comma = '@'
+		reader.LazyQuotes = true
 		reader.FieldsPerRecord = -1 // Allow variable number of fields
 		reader.TrimLeadingSpace = true
 

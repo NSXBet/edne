@@ -146,6 +146,7 @@ func (p *StreetParser) parseFile(basePath, filename string) ([]models.Street, er
 	reader := csv.NewReader(dec)
 	reader.Comma = '@'
 	reader.FieldsPerRecord = -1 // Allow variable number of fields
+	reader.LazyQuotes = true
 
 	for {
 		record, err := reader.Read()

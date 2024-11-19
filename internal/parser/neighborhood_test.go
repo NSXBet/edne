@@ -19,7 +19,7 @@ func TestParseNeighborhood(t *testing.T) {
 	neighborhoods, err := parser.Parse(base, update)
 	require.NoError(t, err)
 	require.NotEmpty(t, neighborhoods)
-	require.Len(t, neighborhoods, 54)
+	require.Len(t, neighborhoods, 55)
 
 	// 5268@MG@3689@Santa Paula@Sta Paula
 	require.Contains(t, neighborhoods, 5268)

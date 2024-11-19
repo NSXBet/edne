@@ -4,6 +4,10 @@ import "github.com/NSXBet/edne/internal/parser"
 
 type Parser struct{}
 
+func NewParser() *Parser {
+	return &Parser{}
+}
+
 func (p *Parser) Parse(base, update string) (map[int]Address, error) {
 	masterParser := parser.NewMasterParser()
 

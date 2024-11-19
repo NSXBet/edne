@@ -69,6 +69,7 @@ func (p *LocationParser) parseFile(basePath string) (map[int]models.Location, er
 		reader.Comma = '@'
 		reader.FieldsPerRecord = -1 // Allow variable number of fields
 		reader.TrimLeadingSpace = true
+		reader.LazyQuotes = true
 
 		for {
 			record, err := reader.Read()
