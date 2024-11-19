@@ -6,6 +6,7 @@ import (
 	"io"
 	"os"
 	"path"
+	"strconv"
 	"strings"
 
 	"github.com/NSXBet/edne/internal/models"
@@ -15,11 +16,11 @@ import (
 
 type BairroParser struct{}
 
-func NewBairroParser() *BairroParser {
+func NewNeighborhoodParser() *BairroParser {
 	return &BairroParser{}
 }
 
-func (p *BairroParser) Parse(base, update string) (map[string]models.Neighborhood, error) {
+func (p *BairroParser) Parse(base, update string) (map[int]models.Neighborhood, error) {
 	// Read base file
 	baseNeighborhoods, err := p.parseFile(base)
 	if err != nil {
@@ -41,7 +42,7 @@ func (p *BairroParser) Parse(base, update string) (map[string]models.Neighborhoo
 	return baseNeighborhoods, nil
 }
 
-func (p *BairroParser) parseFile(basePath string) (map[string]models.Neighborhood, error) {
+func (p *BairroParser) parseFile(basePath string) (map[int]models.Neighborhood, error) {
 	entries, err := os.ReadDir(basePath)
 	if err != nil {
 		return nil, fmt.Errorf("error reading directory %s: %w", basePath, err)
@@ -78,9 +79,14 @@ func (p *BairroParser) parseFile(basePath string) (map[string]models.Neighborhoo
 				return nil, fmt.Errorf("error reading file %s: %w", filepath, err)
 			}
 
+			id, err := strconv.Atoi(strings.TrimSpace(record[0]))
+			if err != nil {
+				return nil, fmt.Errorf("error parsing ID: %w", err)
+			}
+
 			// Parse each record into a Neighborhood object
 			neighborhood := models.Neighborhood{
-				ID:   strings.TrimSpace(record[0]),
+				ID:   id,
 				Name: strings.TrimSpace(record[3]),
 			}
 			neighborhoods = append(neighborhoods, neighborhood)

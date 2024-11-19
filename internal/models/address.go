@@ -1,10 +1,37 @@
 package models
 
-type Address struct {
-	ID                   string
-	ZipCode              string
+type LocationSituation int
+
+const (
+	LocationSituationNonCodified LocationSituation = iota
+	LocationSituationCodifiedStreet
+	LocationSituationCodifiedDistrict
+)
+
+type LocationType string
+
+const (
+	LocationTypeDistrict LocationType = "D"
+	LocationTypeCity     LocationType = "M"
+	LocationTypeVillage  LocationType = "P"
+)
+
+type Location struct {
+	ID                    int
+	State                 string
+	Name                  string
+	ZipCode               int
+	Situation             LocationSituation
+	Type                  LocationType
+	SubordinateLocationID int
+	IBGECode              string
+}
+
+type Street struct {
+	ID                   int
+	ZipCode              int
 	State                string
-	LocationID           string
+	LocationID           int
 	StartingNeighborhood *Neighborhood
 	EndingNeighborhood   *Neighborhood
 	Name                 string
@@ -13,12 +40,12 @@ type Address struct {
 }
 
 type Neighborhood struct {
-	ID   string
+	ID   int
 	Name string
 }
 
-func ZipCodeMap(addrs []Address) map[string]Address {
-	m := make(map[string]Address)
+func ZipCodeMap(addrs []Street) map[int]Street {
+	m := make(map[int]Street)
 	for _, addr := range addrs {
 		m[addr.ZipCode] = addr
 	}
@@ -26,10 +53,27 @@ func ZipCodeMap(addrs []Address) map[string]Address {
 	return m
 }
 
-func NeighborhoodMap(neighborhoods []Neighborhood) map[string]Neighborhood {
-	m := make(map[string]Neighborhood)
+func NeighborhoodMap(neighborhoods []Neighborhood) map[int]Neighborhood {
+	m := make(map[int]Neighborhood)
 	for _, neighborhood := range neighborhoods {
 		m[neighborhood.ID] = neighborhood
 	}
 	return m
+}
+
+func LocationMap(locations []Location) map[int]Location {
+	m := make(map[int]Location)
+	for _, location := range locations {
+		m[location.ID] = location
+	}
+	return m
+}
+
+type Address struct {
+	Street       string
+	Neighborhood string
+	City         string
+	CityIBGECode string
+	State        string
+	ZipCode      int
 }

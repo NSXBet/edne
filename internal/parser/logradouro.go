@@ -6,6 +6,7 @@ import (
 	"io"
 	"os"
 	"path"
+	"strconv"
 	"strings"
 
 	"github.com/NSXBet/edne/internal/models"
@@ -77,7 +78,7 @@ func NewLogradouroParser(opts ...LogradouroParserOption) *LogradouroParser {
 	return parser
 }
 
-func (p *LogradouroParser) Parse(basePath, updatePath string) (map[string]models.Address, error) {
+func (p *LogradouroParser) Parse(basePath, updatePath string) (map[int]models.Street, error) {
 	baseAddresses, err := p.parseFiles(basePath, "LOG")
 	if err != nil {
 		return nil, fmt.Errorf("error parsing base file: %w", err)
@@ -97,8 +98,8 @@ func (p *LogradouroParser) Parse(basePath, updatePath string) (map[string]models
 	return baseAddresses, nil
 }
 
-func (p *LogradouroParser) parseFiles(basePath, prefix string) (map[string]models.Address, error) {
-	var addresses []models.Address
+func (p *LogradouroParser) parseFiles(basePath, prefix string) (map[int]models.Street, error) {
+	var addresses []models.Street
 
 	// Create a map of valid states for O(1) lookup
 	validStates := make(map[State]bool)
@@ -130,8 +131,8 @@ func (p *LogradouroParser) parseFiles(basePath, prefix string) (map[string]model
 	return models.ZipCodeMap(addresses), nil
 }
 
-func (p *LogradouroParser) parseFile(basePath, filename string) ([]models.Address, error) {
-	addresses := make([]models.Address, 0)
+func (p *LogradouroParser) parseFile(basePath, filename string) ([]models.Street, error) {
+	addresses := make([]models.Street, 0)
 
 	filepath := path.Join(basePath, filename)
 	file, err := os.Open(filepath)
@@ -160,19 +161,48 @@ func (p *LogradouroParser) parseFile(basePath, filename string) ([]models.Addres
 			continue
 		}
 
-		address := models.Address{
-			ID:         strings.TrimSpace(record[0]),
+		id, err := strconv.Atoi(strings.TrimSpace(record[0]))
+		if err != nil {
+			return nil, fmt.Errorf("error parsing ID: %w", err)
+		}
+
+		locationID, err := strconv.Atoi(strings.TrimSpace(record[2]))
+		if err != nil {
+			return nil, fmt.Errorf("error parsing LocationID: %w", err)
+		}
+
+		zipCode, err := strconv.Atoi(strings.TrimSpace(record[7]))
+		if err != nil {
+			return nil, fmt.Errorf("error parsing ZipCode: %w", err)
+		}
+
+		startingNeighborhoodID, err := strconv.Atoi(strings.TrimSpace(record[3]))
+		if err != nil {
+			return nil, fmt.Errorf("error parsing StartingNeighborhoodID: %w", err)
+		}
+
+		endingNeighborhoodID := 0
+
+		if strings.TrimSpace(record[4]) != "" {
+			endingNeighborhoodID, err = strconv.Atoi(strings.TrimSpace(record[4]))
+			if err != nil {
+				return nil, fmt.Errorf("error parsing EndingNeighborhoodID: %w", err)
+			}
+		}
+
+		address := models.Street{
+			ID:         id,
 			State:      strings.TrimSpace(record[1]),
-			LocationID: strings.TrimSpace(record[2]),
+			LocationID: locationID,
 			StartingNeighborhood: &models.Neighborhood{
-				ID: strings.TrimSpace(record[3]),
+				ID: startingNeighborhoodID,
 			},
 			EndingNeighborhood: &models.Neighborhood{
-				ID: strings.TrimSpace(record[4]),
+				ID: endingNeighborhoodID,
 			},
 			Name:       strings.TrimSpace(record[5]),
 			Complement: strings.TrimSpace(record[6]),
-			ZipCode:    strings.TrimSpace(record[7]),
+			ZipCode:    zipCode,
 			Type:       strings.TrimSpace(record[8]),
 		}
 

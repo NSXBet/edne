@@ -5,7 +5,7 @@
 6@AC@Cruzeiro do Sul@69980000@0@M@@Cruzeiro Sul@1200203
 7@AC@Epitaciolândia@69934000@0@M@@Epitaciolândia@1200252
 8@AC@Feijó@69960000@0@M@@Feijó@1200302
-9@AC@Jordão@69975000@0@M@@Jordão@1200328
+9@AC@Jord?o@69975000@0@M@@Jord?o@1200328
 10@AC@Mâncio Lima@69990000@0@M@@Mâncio Lima@1200336
 11@AC@Manoel Urbano@69950000@0@M@@Manoel Urbano@1200344
 14@AC@Porto Acre@69927000@0@M@@Pto Acre@1200807
@@ -18,3 +18,4 @@
 19@AC@Sena Madureira@69940000@0@M@@Sena Madureira@1200500
 21@AC@Tarauacá@69970000@0@M@@Tarauacá@1200609
 16@AC@Rio Branco@@1@M@@Rio Branco@1200401
+8956@SP@Mosteiro Bento@@1@M@@Mosteiro Bento@06415235
