@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/require"
 )
 
-func TestParseBairro(t *testing.T) {
+func TestParseNeighborhood(t *testing.T) {
 	base := test.Fixture("base")
 	require.NotEmpty(t, base)
 	update := test.Fixture("update")
@@ -19,7 +19,7 @@ func TestParseBairro(t *testing.T) {
 	neighborhoods, err := parser.Parse(base, update)
 	require.NoError(t, err)
 	require.NotEmpty(t, neighborhoods)
-	require.Len(t, neighborhoods, 53)
+	require.Len(t, neighborhoods, 54)
 
 	// 5268@MG@3689@Santa Paula@Sta Paula
 	require.Contains(t, neighborhoods, 5268)

@@ -14,13 +14,13 @@ import (
 	"golang.org/x/text/transform"
 )
 
-type BairroParser struct{}
+type NeighborhoodParser struct{}
 
-func NewNeighborhoodParser() *BairroParser {
-	return &BairroParser{}
+func NewNeighborhoodParser() *NeighborhoodParser {
+	return &NeighborhoodParser{}
 }
 
-func (p *BairroParser) Parse(base, update string) (map[int]models.Neighborhood, error) {
+func (p *NeighborhoodParser) Parse(base, update string) (map[int]models.Neighborhood, error) {
 	// Read base file
 	baseNeighborhoods, err := p.parseFile(base)
 	if err != nil {
@@ -42,7 +42,7 @@ func (p *BairroParser) Parse(base, update string) (map[int]models.Neighborhood, 
 	return baseNeighborhoods, nil
 }
 
-func (p *BairroParser) parseFile(basePath string) (map[int]models.Neighborhood, error) {
+func (p *NeighborhoodParser) parseFile(basePath string) (map[int]models.Neighborhood, error) {
 	entries, err := os.ReadDir(basePath)
 	if err != nil {
 		return nil, fmt.Errorf("error reading directory %s: %w", basePath, err)

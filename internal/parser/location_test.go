@@ -20,7 +20,7 @@ func TestParseLocation(t *testing.T) {
 	locations, err := parser.Parse(base, update)
 	require.NoError(t, err)
 	require.NotEmpty(t, locations)
-	require.Len(t, locations, 21)
+	require.Len(t, locations, 22)
 
 	require.Contains(t, locations, 16)
 	location := locations[16]

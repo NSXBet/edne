@@ -16,7 +16,7 @@ import (
 
 type State string
 
-type LogradouroParserOption func(opts *ParserOptions)
+type StreetParserOption func(opts *ParserOptions)
 
 type ParserOptions struct {
 	States []State
@@ -52,20 +52,20 @@ var defaultStates = []State{
 	"TO", // Tocantins
 }
 
-func WithStates(states ...State) LogradouroParserOption {
+func WithStates(states ...State) StreetParserOption {
 	return func(opts *ParserOptions) {
 		opts.States = states
 	}
 }
 
-type LogradouroParser struct {
+type StreetParser struct {
 	states []State
 }
 
-func NewLogradouroParser(opts ...LogradouroParserOption) *LogradouroParser {
+func NewStreetParser(opts ...StreetParserOption) *StreetParser {
 	options := &ParserOptions{}
 
-	parser := &LogradouroParser{}
+	parser := &StreetParser{}
 	for _, opt := range opts {
 		opt(options)
 	}
@@ -78,7 +78,7 @@ func NewLogradouroParser(opts ...LogradouroParserOption) *LogradouroParser {
 	return parser
 }
 
-func (p *LogradouroParser) Parse(basePath, updatePath string) (map[int]models.Street, error) {
+func (p *StreetParser) Parse(basePath, updatePath string) (map[int]models.Street, error) {
 	baseAddresses, err := p.parseFiles(basePath, "LOG")
 	if err != nil {
 		return nil, fmt.Errorf("error parsing base file: %w", err)
@@ -98,7 +98,7 @@ func (p *LogradouroParser) Parse(basePath, updatePath string) (map[int]models.St
 	return baseAddresses, nil
 }
 
-func (p *LogradouroParser) parseFiles(basePath, prefix string) (map[int]models.Street, error) {
+func (p *StreetParser) parseFiles(basePath, prefix string) (map[int]models.Street, error) {
 	var addresses []models.Street
 
 	// Create a map of valid states for O(1) lookup
@@ -131,7 +131,7 @@ func (p *LogradouroParser) parseFiles(basePath, prefix string) (map[int]models.S
 	return models.ZipCodeMap(addresses), nil
 }
 
-func (p *LogradouroParser) parseFile(basePath, filename string) ([]models.Street, error) {
+func (p *StreetParser) parseFile(basePath, filename string) ([]models.Street, error) {
 	addresses := make([]models.Street, 0)
 
 	filepath := path.Join(basePath, filename)

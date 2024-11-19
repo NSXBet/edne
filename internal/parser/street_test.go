@@ -8,13 +8,13 @@ import (
 	"github.com/stretchr/testify/require"
 )
 
-func TestParseLogradouro(t *testing.T) {
+func TestParseStreet(t *testing.T) {
 	base := test.Fixture("base")
 	require.NotEmpty(t, base)
 	update := test.Fixture("update")
 	require.NotEmpty(t, update)
 
-	parser := parser.NewLogradouroParser()
+	parser := parser.NewStreetParser()
 	addresses, err := parser.Parse(base, update)
 	require.NoError(t, err)
 	require.NotEmpty(t, addresses)

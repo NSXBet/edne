@@ -26,15 +26,15 @@ func (p *MasterParser) Parse(base, update string) (map[int]models.Address, error
 		return nil, fmt.Errorf("error parsing locations: %w", err)
 	}
 
-	logradouroParser := NewLogradouroParser()
-	logradouros, err := logradouroParser.Parse(base, update)
+	streetParser := NewStreetParser()
+	streets, err := streetParser.Parse(base, update)
 	if err != nil {
-		return nil, fmt.Errorf("error parsing logradouros: %w", err)
+		return nil, fmt.Errorf("error parsing streets: %w", err)
 	}
 
 	addresses := map[int]models.Address{}
 
-	for zipCode, street := range logradouros {
+	for zipCode, street := range streets {
 		neighborhood, ok := neighborhoods[street.StartingNeighborhood.ID]
 		if !ok {
 			neighborhood = models.Neighborhood{}
