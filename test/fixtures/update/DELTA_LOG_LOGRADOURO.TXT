@@ -1,0 +1,426 @@
+1303907@SP@9082@17243@@Paulino Pires de Camargo@@06726481@Travessa@S@Tv Paulino P de Camargo@INS@
+1303908@SP@9082@17243@@Francisco Vaz Pires@@06726469@Travessa@S@Tv Francisco V Pires@INS@
+1303909@SP@9082@31037@@Crispin Soares@@06721545@Avenida@S@Av Crispin Soares@INS@
+1303881@SP@9052@17181@@das Rosas@@15804377@Rua@S@R das Rosas@INS@
+1303882@SP@9052@77591@@das Rosas@@15805242@Rua@S@R das Rosas@INS@
+1303883@SP@9052@17181@@das Tulipas@@15804380@Rua@S@R das Tulipas@INS@
+1303884@SP@9052@77591@@das Tulipas@@15805245@Rua@S@R das Tulipas@INS@
+1303885@SP@9052@17181@@das Violetas@@15804375@Rua@S@R das Violetas@INS@
+1303886@SP@9052@77591@@das Violetas@@15805240@Rua@S@R das Violetas@INS@
+1303866@SP@9052@17160@@Alcântaras@@15810040@Rua@S@R Alcântaras@INS@
+1303867@SP@9052@77592@@Alcântaras@@15810054@Rua@S@R Alcântaras@INS@
+1303854@SP@9037@77593@@Januário Roque Siqueira@@18304851@Avenida@S@Av Januário R Siqueira@INS@
+1303855@SP@9037@77593@@Angelino Antunes Rodrigues@@18304852@Rua@S@R Angelino A Rodrigues@INS@
+1303856@SP@9037@77593@@Antonio Faustino Brisola@@18304853@Rua@S@R Antonio F Brisola@INS@
+1303857@SP@9037@77593@@Ciriano Martins Brisola@@18304854@Rua@S@R Ciriano M Brisola@INS@
+1303858@SP@9037@77593@@da Praça São Roque A@@18304855@Rua@S@R da Pç S Roque A@INS@
+1303859@SP@9037@77593@@da Praça São Roque B@@18304856@Rua@S@R da Pç S Roque B@INS@
+1303860@SP@9037@77593@@Dionísio Mendes da Silva@@18304857@Rua@S@R Dionísio M da Silva@INS@
+1303861@SP@9037@77593@@José Eloi Brisola@@18304858@Rua@S@R José E Brisola@INS@
+1303862@SP@9037@77593@@Paulino Brisola@@18304859@Rua@S@R Paulino Brisola@INS@
+1303863@SP@9037@77593@@Santino Aristeu Rodrigues@@18304860@Rua@S@R Santino A Rodrigues@INS@
+1303864@SP@9037@77593@@Teophilo de Paula Brisola@@18304861@Rua@S@R Teophilo de P Brisola@INS@
+1303865@SP@9037@77593@@Marcílio Brisola@@18304862@Viela@S@Vla Marcílio Brisola@INS@
+1303868@SP@9052@17181@@dos Antúrios@@15804381@Rua@S@R dos Antúrios@INS@
+1303869@SP@9052@77591@@dos Antúrios@@15805246@Rua@S@R dos Antúrios@INS@
+1303870@SP@9052@17181@@das Azaléias@@15804376@Rua@S@R das Azaléias@INS@
+1303871@SP@9052@77591@@das Azaléias@@15805241@Rua@S@R das Azaléias@INS@
+1303872@SP@9052@17181@@dos Cravos@@15804378@Rua@S@R dos Cravos@INS@
+1303873@SP@9052@77591@@dos Cravos@@15805243@Rua@S@R dos Cravos@INS@
+1303874@SP@9052@17217@@Doutor Francisco Araújo Pinto@@15810110@Rua@S@R Dr Francisco A Pinto@INS@
+1303875@SP@9052@77592@@Doutor Francisco Araújo Pinto@@15810083@Rua@S@R Dr Francisco A Pinto@INS@
+683449@SP@9138@17811@@Elza Truella Machado@@08505630@Rua@S@R Elza T Machado@UPD@08505630
+683450@SP@9138@17811@@Maria Carmelita de Lima@@08505640@Rua@S@R Maria C de Lima@UPD@08505640
+683452@SP@9138@17811@@José Alberto Moraes@@08505660@Rua@S@R José A Moraes@UPD@08505660
+683453@SP@9138@17811@@Waldemar de Barros Oliveira@@08505670@Rua@S@R Waldemar de B Oliveira@UPD@08505670
+683454@SP@9138@17811@@Antonio Fuga Neto@@08505680@Rua@S@R Antonio F Neto@UPD@08505680
+1159874@SP@9189@64139@@Francisco Gabrielli@@13183884@Rua@S@R Francisco Gabrielli@UPD@13183884
+1166637@SP@9183@64413@@Ronaldo Beltran Saraceni@@07162600@Avenida@S@Av Ronaldo B Saraceni@UPD@07162600
+1303910@SP@9189@18919@@dos Guarás@@13183766@Rua@S@R dos Guarás@INS@
+1303911@SP@9189@64139@@dos Guarás@@13183887@Rua@S@R dos Guarás@INS@
+1303912@SP@9197@77585@@Osório Estábile@@14948330@Rua@S@R Osório Estábile@INS@
+1303913@SP@9197@77585@@Calixto Razza@@14948332@Rua@S@R Calixto Razza@INS@
+1303914@SP@9197@77585@@Rosa Bueno da Silva@@14948334@Rua@S@R Rosa B da Silva@INS@
+1303915@SP@9197@77585@@Lourdes Tobias Baptista@@14948336@Rua@S@R Lourdes T Baptista@INS@
+1303916@SP@9197@77584@@Amoreiras@@14942398@Rua@S@R Amoreiras@INS@
+1303917@SP@9197@77584@@dos Jatobás@@14942396@Rua@S@R dos Jatobás@INS@
+1303918@SP@9197@77584@@Cambuí@@14942394@Avenida@S@Av Cambuí@INS@
+1303919@SP@9197@77584@@Acácia Rosa@@14942392@Rua@S@R Acácia Rosa@INS@
+1303920@SP@9197@77584@@Magnólia@@14942390@Rua@S@R Magnólia@INS@
+1303921@SP@9197@77584@@dos Jacarandás@@14942388@Rua@S@R dos Jacarandás@INS@
+1303922@SP@9197@77584@@Peroba Rosa@@14942386@Rua@S@R Peroba Rosa@INS@
+1303923@SP@9197@77584@@Ravenala@@14942384@Rua@S@R Ravenala@INS@
+1303924@SP@9197@77584@@Araucária@@14942380@Rua@S@R Araucária@INS@
+1303925@SP@9197@77584@@Mussaenda@@14942378@Rua@S@R Mussaenda@INS@
+1303926@SP@9197@77584@@Palmeiras@@14942376@Rua@S@R Palmeiras@INS@
+1303927@SP@9197@77584@@das Congéias@@14942372@Rua@S@R das Congéias@INS@
+1303928@SP@9197@77587@@das Garças@@14947358@Segunda Avenida@S@Seg Av das Garças@INS@
+1303929@SP@9197@77587@@das Araras@@14947352@Rua@S@R das Araras@INS@
+1303930@SP@9197@77586@@Aristides Lopes@@14948868@Rua@S@R Aristides Lopes@INS@
+1303931@SP@9197@77586@@Manoel Matias de Almeida@@14948854@Rua@S@R Manoel M de Almeida@INS@
+1303932@SP@9197@77586@@Ennio Trevizoli@@14948852@Rua@S@R Ennio Trevizoli@INS@
+1303933@SP@9197@77586@@David Biffi@@14948850@Rua@S@R David Biffi@INS@
+1303934@SP@9197@77586@@João José Fodra@@14948848@Rua@S@R João J Fodra@INS@
+1303935@SP@9197@77586@@Josefa Gonçalves de Almeida@@14948846@Rua@S@R Josefa G de Almeida@INS@
+1303936@SP@9197@77586@@Miguel Marcello Zucchi@@14948844@Rua@S@R Miguel M Zucchi@INS@
+1303937@SP@9197@77586@@Camila Cristina Batista@@14948842@Rua@S@R Camila C Batista@INS@
+1303938@SP@9197@77586@@Terezinha de Oliveira Carvalho@@14948840@Rua@S@R Terezinha de O Carvalho@INS@
+1303939@SP@9197@77586@@Gilberto Tomaz@@14948838@Rua@S@R Gilberto Tomaz@INS@
+1303940@SP@9197@77586@@Antônio Álvaro Moreale@@14948836@Rua@S@R Antônio A Moreale@INS@
+1303941@SP@9197@77586@@Valter Henrique Rosa@@14948834@Rua@S@R Valter H Rosa@INS@
+1303942@SP@9197@77586@@Carlos Ulisses Teixeira@@14948830@Rua@S@R Carlos U Teixeira@INS@
+1291890@SP@9009@76400@@Maria de Lourdes Audizio Villalva@@16500208@Rua@S@R Maria de L A Villalva@UPD@16500208
+1291897@SP@9009@76400@@João Caparroz Barbosa@@16500222@Rua@S@R João C Barbosa@UPD@16500222
+1291904@SP@9009@76400@@Regiane Gazoto@@16500236@Rua@S@R Regiane Gazoto@UPD@16500236
+1303833@SP@9009@35605@@Dona Nena@@16500002@Praça@S@Pç Da Nena@INS@
+1303834@SP@9009@75323@@Tenente José Feliciano de Brito@@16503021@Travessa@S@Tv Ten José F de Brito@INS@
+1303835@SP@9009@75330@@João Carlos Bérgamo de Almeida@@16506008@Rua@S@R João C B de Almeida@INS@
+1303949@SP@9274@77596@@Victorio Prandi@@15703505@Estrada Vicinal@S@Est Vic Victorio Prandi@INS@
+1288844@SP@9285@76068@@Oswaldo Brando@@17218009@Rua@S@R Oswaldo Brando@UPD@17218009
+1288845@SP@9285@76068@@Aparecido Gualhiarelo@@17218010@Rua@S@R Aparecido Gualhiarelo@UPD@17218010
+1288846@SP@9285@76068@@Martha Aparecida Bilancieri de Souza@@17218011@Rua@S@R Martha A B de Souza@UPD@17218011
+1288847@SP@9285@76068@@Magdalena Ramos@@17218012@Rua@S@R Magdalena Ramos@UPD@17218012
+1288848@SP@9285@76068@@Marcos Lourival Marcoantonio@@17218013@Rua@S@R Marcos L Marcoantonio@UPD@17218013
+1288849@SP@9285@76068@@Armando José Massucatto@@17218014@Rua@S@R Armando J Massucatto@UPD@17218014
+1288850@SP@9285@76068@@Geraldo Mozart Henrique@@17218015@Rua@S@R Geraldo M Henrique@UPD@17218015
+1303950@SP@9285@76068@@Índio Valente@@17218016@Rua@S@R Id Valente@INS@
+1303951@SP@9285@76068@@Professor Carlos Hércules Travain@@17218017@Avenida@S@Av Prf Carlos H Travain@INS@
+1174896@SP@9366@65081@@Pedro Origa@- até 1490/1491@15132042@Avenida@S@Av Pedro Origa@UPD@15132042
+1174897@SP@9366@65082@@Pedro Origa@- de 1492/1493 ao fim@15132066@Avenida@S@Av Pedro Origa@UPD@15132066
+1303952@SP@9338@31707@@Dorival Gomes Pedroso@@07661825@Rua@S@R Dorival G Pedroso@INS@
+1303953@SP@9338@31707@@Aparecida Jesus Pedroso Almeida@@07661793@Rua@S@R Aparecida J P Almeida@INS@
+872887@SP@9369@52690@@Osvaldo Deodono@@08752525@Rua@S@R Osvaldo Deodono@UPD@08752525
+1222842@SP@9338@31707@@Cecilia do Prado Pedroso@@07661795@Rua@S@R Cecilia do P Pedroso@UPD@07661795
+1222844@SP@9338@31707@@José Gomes Pedroso@@07661800@Rua@S@R José G Pedroso@UPD@07661800
+1222845@SP@9338@31707@@Bento Gomes Pedroso@@07661805@Rua@S@R Bento G Pedroso@UPD@07661805
+1222848@SP@9338@31707@@Messina Ferreira Pedroso@@07661810@Rua@S@R Messina F Pedroso@UPD@07661810
+1222849@SP@9338@31707@@Eloi Gomes Pedroso@@07661815@Rua@S@R Eloi G Pedroso@UPD@07661815
+1222850@SP@9338@31707@@Isaias Gomes Pedroso@@07661820@Rua@S@R Isaias G Pedroso@UPD@07661820
+1303954@SP@9420@76823@@Joaquim Pereira dos Santos@- até 99998 - lado par@14965326@Rua@S@R Joaquim P dos Santos@INS@
+1303955@SP@9420@76802@@Joaquim Pereira dos Santos@- até 99999 - lado ímpar@14967042@Rua@S@R Joaquim P dos Santos@INS@
+1303956@SP@9420@37509@@Rui Barbosa@- até 298/00299@14960014@Rua@S@R Rui Barbosa@INS@
+1303957@SP@9420@76780@@Rui Barbosa@- de 00300/301 ao fim@14965014@Rua@S@R Rui Barbosa@INS@
+670024@SP@9371@43845@@Laudelino Pilla@@13817115@Rua@S@R Laudelino Pilla@UPD@13817115
+664890@SP@9370@43626@@Joelma da Silva@@13848525@Rua@S@R Joelma da Silva@UPD@13848525
+1303958@SP@9465@65955@@João Estevão da Silva@@17150059@Rua@S@R João E da Silva@INS@
+1303943@SP@9240@19341@@Maria da Glória Rodrigues@@18203402@Rua@S@R Maria da G Rodrigues@INS@
+1303944@SP@9240@19341@@Benedicto Apparecido Rodrigues -Marreco@@18203403@Rua@S@R Benedicto A Rodrigues - Marreco@INS@
+1303945@SP@9240@19308@@José Ciro de Queiroz@@18211246@Rua@S@R José C de Queiroz@INS@
+1303946@SP@9240@19297@@Padre Antonio Carlos Meira@@18208072@Rua@S@R Pe Antonio C Meira@INS@
+700872@SP@9250@53869@@Professor Claudio Antonio Lopes Ferro@@08588148@Rua@S@R Prf Claudio A L Ferro@UPD@08588148
+700873@SP@9250@53869@@Professor Eduardo Soares Lourenço Junior@@08588152@Rua@S@R Prf Eduardo S L Junior@UPD@08588152
+939756@SP@9250@54865@@Frank Sinatra@@08596750@Rua@S@R Frank Sinatra@UPD@08596750
+939758@SP@9250@54865@@João Gilberto@@08596760@Rua@S@R João Gilberto@UPD@08596760
+939759@SP@9250@54865@@Ângela Maria@@08596765@Rua@S@R Ângela Maria@UPD@08596765
+939760@SP@9250@54865@@Emílio Santiago@@08596770@Rua@S@R Emílio Santiago@UPD@08596770
+939761@SP@9250@54865@@André Matos@@08596775@Rua@S@R André Matos@UPD@08596775
+939762@SP@9250@54865@@Tulipa Branca@@08596780@Rua@S@R Tulipa Branca@UPD@08596780
+1303947@SP@9260@70456@@Pastor Walter Orion de Souza Filho@@13306612@Rua@S@R Pst Walter O de S Filho@INS@
+1303948@SP@9260@70454@@João Baptista de Almeida Prado Guimarães@@13309760@Rua@S@R João B de A P Guimarães@INS@
+505179@SP@9240@19263@@Marcílio Nalesso@@18206030@Rua@S@R Marcílio Nalesso@UPD@18206030
+514636@SP@9267@20198@@Aparecido Florêncio Izidoro@@12329053@Rua@S@R Aparecido F Izidoro@UPD@12329053
+514077@SP@9265@20056@@José Antonio Marques@@14871125@Avenida@S@Av José A Marques@UPD@14871125
+1303960@SP@9612@70312@@Cesario Saviolo@@17370303@Rua@S@R Cesario Saviolo@INS@
+557676@SP@9622@29494@@do Ingay@@06519205@Estrada Municipal@S@Est Mun do Ingay@UPD@06519205
+1301785@SP@9636@23990@@João Belchior Marques Goulart@@11080750@Avenida@S@Av João B Mq Goulart@UPD@11080750
+556805@SP@9622@29512@@do Ingay@@06519085@Estrada Municipal@S@Est Mun do Ingay@UPD@06519085
+898364@SP@9660@53165@@Radialista Antonio Leite@@12228306@Rua@S@R Rad Antonio Leite@UPD@12228306
+1303961@SP@9643@69084@@Doutor Sérgio Mascarenhas de Oliveira@@13573499@Avenida@S@Av Dr Sérgio M de Oliveira@INS@
+1303962@SP@9660@77598@@Jerson de Moura Lopes@@12244341@Avenida@S@Av Jerson de M Lopes@INS@
+1303963@SP@9660@77598@@Maria Ferreira de Carvalho@@12244342@Rua@S@R Maria F de Carvalho@INS@
+1303964@SP@9660@77598@@Angela Maria de Carvalho Aquino@@12244343@Rua@S@R Angela M de C Aquino@INS@
+1303965@SP@9660@77598@@José Ailton Pupio@@12244344@Rua@S@R José A Pupio@INS@
+1303966@SP@9660@77598@@Alziro Rodrigues de Carvalho@@12244345@Rua@S@R Alziro R de Carvalho@INS@
+1303967@SP@9660@77598@@Airton de Oliveira Campos@@12244346@Rua@S@R Airton de O Campos@INS@
+1258189@SP@9493@22580@@Lorivaldo Antonio Trevisan@(Terras Di Treviso)@13423723@Rua@S@R Lorivaldo A Trevisan@UPD@13423723
+1303959@SP@9493@50521@@Ártemis@@13432008@Rua@S@R Ártemis@INS@
+1303968@SP@9673@77589@@Pinheiro@@11623515@Rua@S@R Pinheiro@INS@
+1303969@SP@9673@77589@@Carioca@@11623516@Rua@S@R Carioca@INS@
+1303970@SP@9673@77589@@da Rua Pinheiro@@11623517@Travessa@S@Tv da R Pinheiro@INS@
+948781@AC@16@55415@@da Alegria@@69908654@Travessa@S@Tv da Alegria@DEL@
+1274113@MG@3332@74962@@Gonçalves@@33234615@Rua@S@R Gonçalves@DEL@
+1274817@MG@3332@75007@@Bandeirante Felipe Rodrigues@@33230248@Avenida@S@Av Bante Felipe Rodrigues@DEL@
+699530@MG@4047@49176@@Durvalina Quintino da Cruz@@38039770@Rua@S@R Durvalina Q da Cruz@DEL@
+263386@PE@5406@7374@@Conselheiro Barros Barreto@@52130170@Rua@S@R Cnso Barros Barreto@DEL@
+270493@PE@5406@7374@@Judith@@52130210@Rua@S@R Judith@DEL@
+982370@PR@6709@56324@@Laércio Manchini@@87118532@Rua@S@R Laércio Manchini@DEL@
+982372@PR@6709@56324@@Carlos Roberto Sibim@@87118537@Rua@S@R Carlos R Sibim@DEL@
+1103488@SC@8463@35307@@Doralicio Garcia@@89110013@Rua@S@R Doralicio Garcia@DEL@
+433394@SC@8521@14027@@Cachoeira@@89205070@Rua@S@R Cachoeira@DEL@
+1153150@SC@8419@13850@@Francismar Severino Tozzo@@89805283@Rua@S@R Francismar S Tozzo@DEL@
+1153151@SC@8419@61399@@Francismar Severino Tozzo@@89811168@Rua@S@R Francismar S Tozzo@DEL@
+1265468@SC@8419@61399@@Francismar Severino Tozzo@@89811246@Rua@S@R Francismar S Tozzo@DEL@
+1153152@SC@8419@13850@@Xanxerê@@89805270@Rua@S@R Xanxerê@DEL@
+1153153@SC@8419@61399@@Xanxerê@@89805260@Rua@S@R Xanxerê@DEL@
+1153154@SC@8419@13850@@Vilson Antonio Vivian@@89805263@Rua@S@R Vilson A Vivian@DEL@
+1153155@SC@8419@61399@@Vilson Antonio Vivian@@89811160@Rua@S@R Vilson A Vivian@DEL@
+1153146@SC@8419@13850@@Concórdia@@89805286@Rua@S@R Concórdia@DEL@
+1153147@SC@8419@61399@@Concórdia@@89811166@Rua@S@R Concórdia@DEL@
+1007234@SP@8989@57225@@Guilherme Antonio Bertani@@18615406@Rua@S@R Guilherme A Bertani@DEL@
+442142@SP@8883@14255@@Ottávio Tancredi@@13476210@Rua@S@R Ottávio Tancredi@DEL@
+442323@SP@8883@14238@@Quatro@@13475711@Rua@S@R Quatro@DEL@
+500506@SP@9189@18919@@dos Guarás@@13183766@Rua@S@R dos Guarás@DEL@
+1159877@SP@9189@64139@@9@@13183887@Rua@S@R 9@DEL@
+1195451@SP@9036@66070@@Hélio Golveia de Melo@@18990003@Rua@S@R Hélio G de Melo@DEL@
+1195456@SP@9036@66071@@Ormelindo Batista@@18990018@Rua@S@R Ormelindo Batista@DEL@
+1195487@SP@9036@66079@@Maria José Gimenes Giraldi@@18990452@Rua@S@R Maria J G Giraldi@DEL@
+1210486@SP@9036@66703@@3@@18990483@Rua@S@R 3@DEL@
+479430@SP@9052@17181@@das Tulipas@@15804380@Rua@S@R das Tulipas@DEL@
+478855@SP@9052@17181@@dos Cravos@@15804378@Rua@S@R dos Cravos@DEL@
+478889@SP@9052@17217@@Doutor Francisco Araújo Pinto@@15810110@Rua@S@R Dr Francisco A Pinto@DEL@
+479205@SP@9052@17181@@das Orquídeas@@15804379@Rua@S@R das Orquídeas@DEL@
+479209@SP@9052@17217@@Otávio Gouveia@@15810115@Rua@S@R Otávio Gouveia@DEL@
+479337@SP@9052@17181@@das Rosas@@15804377@Rua@S@R das Rosas@DEL@
+479462@SP@9052@17181@@das Violetas@@15804375@Rua@S@R das Violetas@DEL@
+478717@SP@9052@17181@@das Azaléias@@15804376@Rua@S@R das Azaléias@DEL@
+1276888@SP@9052@74625@@Braulio Monti@@15807424@Rua@S@R Braulio Monti@DEL@
+1276890@SP@9052@74625@@Antônio Lachi@@15807426@Rua@S@R Antônio Lachi@DEL@
+1276891@SP@9052@74625@@Fioravante Soligo@@15807427@Rua@S@R Fioravante Soligo@DEL@
+1276892@SP@9052@74625@@Olimpio Facundini@@15807428@Rua@S@R Olimpio Facundini@DEL@
+1276893@SP@9052@74625@@Maria Zanata Facundini@@15807429@Rua@S@R Maria Z Facundini@DEL@
+478633@SP@9052@17160@@Alcântaras@@15810040@Rua@S@R Alcântaras@DEL@
+478674@SP@9052@17181@@dos Antúrios@@15804381@Rua@S@R dos Antúrios@DEL@
+993507@SP@8992@56723@@Cinco@@12903874@Rua@S@R Cinco@DEL@
+948779@AC@16@55415@@Quinta das Flores@@69908648@Rua@S@R Qta das Flores@UPD@69908648
+1303690@AC@16@19@@Espatódia@@69917555@Alameda@S@Al Espatódia@INS@
+8104@AM@243@162@@Marcelo Dias@@69082511@Rua@S@R Marcelo Dias@UPD@69082511
+1303691@CE@1396@55930@@Pedro Cildo Araújo@@63507658@Rua@S@R Pedro C Araújo@INS@
+59070@CE@1347@43703@@Maria José P Jereissati@@60863485@Rua@S@R Maria J P Jereissati@UPD@60863485
+1303692@CE@1451@1066@@José Alves Souza@@63021340@Rua@S@R José A Souza@INS@
+96191@ES@2028@1603@@Nova Venécia@@29177297@Rua@S@R Nova Venécia@UPD@29177297
+1303693@ES@2048@29350@@das Bromélias@@29033014@Escadaria@S@Escad das Bromélias@INS@
+1303694@ES@2048@1830@@Antonia Maria dos Santos@@29026377@Escadaria@S@Escad Antonia M dos Santos@INS@
+1303695@GO@2336@61290@@dos Ipês@@75253636@Rua@S@R dos Ipês@INS@
+1303696@GO@2336@61290@@dos Bacuris@@75253638@Rua@S@R dos Bacuris@INS@
+1303697@GO@2336@61290@@dos Açaís@@75253642@Rua@S@R dos Açaís@INS@
+1303698@GO@2336@61290@@dos Mognos@@75253644@Rua@S@R dos Mognos@INS@
+1303699@GO@2336@61290@@dos Cafezais@@75253646@Rua@S@R dos Cafezais@INS@
+1298173@MG@2774@77357@@Antônio Wilson Santos Amaral@@35632110@Rua@S@R Antônio W S Amaral@UPD@35632110
+1303700@MG@3146@34229@@Getúlio Vargas@@38200051@Praça@S@Pç Getúlio Vargas@INS@
+1303701@MG@3332@77604@@Gonçalves@@33234802@Rua@S@R Gonçalves@INS@
+1303702@MG@3332@74993@@Bandeirante Felipe Rodrigues@@33230751@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303703@MG@3332@74980@@Bandeirante Felipe Rodrigues@@33230711@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303704@MG@3332@74985@@Bandeirante Felipe Rodrigues@@33230731@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303705@MG@3332@74932@@Bandeirante Felipe Rodrigues@@33234177@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303706@MG@3332@74962@@Bandeirante Felipe Rodrigues@@33234531@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303707@MG@3332@74989@@Bandeirante Felipe Rodrigues@@33234511@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303708@MG@3332@74869@@Bandeirante Felipe Rodrigues@@33234361@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303709@MG@3332@74987@@Bandeirante Felipe Rodrigues@@33234621@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303710@MG@3332@74942@@Bandeirante Felipe Rodrigues@@33234671@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303711@MG@3332@77604@@Bandeirante Felipe Rodrigues@@33234800@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303712@MG@3332@75012@@Bandeirante Felipe Rodrigues@@33230691@Avenida@S@Av Bante Felipe Rodrigues@INS@
+1303713@MG@3480@51623@@Januário Carneiro@- lado par@34006002@Rodovia@S@Rod Januário Carneiro@INS@
+1303714@MG@3551@61125@@Divino Ribeiro@@38747352@Rua@S@R Divino Ribeiro@INS@
+1303715@MG@3551@61125@@Eduardo de Paiva Arantes@@38747354@Rua@S@R Eduardo de P Arantes@INS@
+1303716@MG@3551@61125@@José Afonso Amorim@@38747356@Rua@S@R José A Amorim@INS@
+1303717@MG@3551@61125@@Carlota dos Santos Barbosa@@38747358@Rua@S@R Carlota dos S Barbosa@INS@
+183924@MG@3689@5242@@Santa da Clara@@33936200@Rua@S@R Sta da Clara@UPD@33936200
+184973@MG@3689@5242@@São João@@33936070@Rua@S@R S João@UPD@33936070
+184997@MG@3689@5242@@São Pedro@@33936100@Rua@S@R S Pedro@UPD@33936100
+184138@MG@3689@5242@@São Paulo@@33936150@Rua@S@R S Paulo@UPD@33936150
+1303718@MG@4047@49176@@Durvalina Quintino da Cruz@- até 509/510@38039770@Rua@S@R Durvalina Q da Cruz@INS@
+1303719@MG@4047@77548@@Durvalina Quintino da Cruz@- de 511/512 ao fim@38039800@Rua@S@R Durvalina Q da Cruz@INS@
+1121445@MG@4066@62336@@Antônio Batista da Silva@@37070700@Avenida@S@Av Antônio B da Silva@UPD@37070700
+1121447@MG@4066@62336@@Julieta Gomes da Silva@@37070704@Avenida@S@Av Julieta G da Silva@UPD@37070704
+1121451@MG@4066@62336@@Expedito Cazelato@@37070712@Rua@S@R Expedito Cazelato@UPD@37070712
+1121454@MG@4066@62336@@José Batista Marques@@37070718@Rua@S@R José B Marques@UPD@37070718
+1121457@MG@4066@62336@@Radialista Afrânio Francisco de Paula@@37070724@Rua@S@R Rad Afrânio F de Paula@UPD@37070724
+1121462@MG@4066@62336@@Professora Gilma Maria Batista@@37070734@Rua@S@R Prfa Gilma M Batista@UPD@37070734
+1121463@MG@4066@62336@@Leão de Carvalho Pinto@@37070736@Rua@S@R Leão de C Pinto@UPD@37070736
+210504@MT@4347@6529@@Manoel da Costa Granja@@78060634@Rua@S@R Manoel da C Granja@UPD@78060634
+1303720@MT@4300@77613@@Onze@@78605110@Rua@S@R Onze@INS@
+1303721@MT@4300@77613@@Nove@@78605112@Rua@S@R Nove@INS@
+1303722@MT@4300@77613@@Oito@@78605114@Rua@S@R Oito@INS@
+1303723@MT@4300@77613@@Sete@@78605116@Rua@S@R Sete@INS@
+1303724@MT@4300@77613@@Serra Azul@@78605120@Avenida@S@Av Serra Azul@INS@
+1303725@MT@4300@77613@@Seis@@78605127@Rua@S@R Seis@INS@
+1303726@MT@4300@77613@@X@@78605124@Rua@S@R X@INS@
+1303727@MT@4300@77613@@Cinco@@78605129@Rua@S@R Cinco@INS@
+1303728@MT@4300@77613@@Quatro@@78605131@Rua@S@R Quatro@INS@
+1303729@MT@4300@77613@@Três@@78605133@Rua@S@R Três@INS@
+1303730@MT@4300@77613@@Dois@@78605135@Rua@S@R Dois@INS@
+1303731@MT@4300@77613@@Um@@78605137@Rua@S@R Um@INS@
+1279207@MT@4347@75214@@Planejada Longitudinal Leste 2@@78074170@Via Principal@S@V-Princ Planejada L Leste 2@UPD@78074170
+214667@MT@4462@6588@@Anselmo Cardinal@@78745705@Avenida@S@Av Anselmo Cardinal@UPD@78745705
+216400@MT@4511@6662@@Aníbal Molina Ribeiro@(Lot Pte Velha)@78115120@Rua@S@R Aníbal M Ribeiro@UPD@78115120
+1303732@MT@4493@59070@@Rosália@- lado ímpar@78559351@Estrada@S@Est Rosália@INS@
+1299353@MT@4498@77249@@38@@78301077@Travessa@S@Tv 38@UPD@78301077
+1271214@MT@4495@73982@@Cabo das Amaral@@78890235@Rua@S@R Cb das Amaral@UPD@78890235
+1026424@MT@4511@6638@@Professora Isabel Pinto de Campos@(Lot Gov J Fragelli)@78118007@Rua@S@R Prfa Isabel Pinto de Campos@UPD@78118007
+1026431@MT@4511@6638@@Professora Isabel Pinto de Campos@(Lot D Sávio)@78117430@Rua@S@R Prfa Isabel Pinto de Campos@UPD@78117430
+1303733@PE@5214@7121@@José Rodrigues da Silva@( Lot Jd Neópolis)@55819685@Rua@S@R José R da Silva@INS@
+1303734@PE@5214@7122@@Maria Eduarda Ramos de Barros@@55813510@Rua@S@R Maria E R de Barros@INS@
+242543@PE@5198@53288@@Doutor Belmino Correia@@54762303@Avenida@S@Av Dr Belmino Correia@UPD@54762303
+242547@PE@5198@53259@@Doutor Belmino Correia@@54753000@Avenida@S@Av Dr Belmino Correia@UPD@54753000
+894402@PE@5198@7115@@Doutor Belmino Correia@@54762003@Avenida@S@Av Dr Belmino Correia@UPD@54762003
+1303735@PE@5216@7150@@Sandra do Nascimento Tabosa@@55016515@Rua@S@R Sandra do N Tabosa@INS@
+1303736@PE@5259@52635@@Jair Ferreira de Freitas@( Conj Hab Viana & Moura São Vicente@55294841@Rua@S@R Jair F de Freitas@INS@
+1303737@PE@5259@52635@@Othoniel Cardoso Gueiros@( Conj Hab Viana & Moura São Vicente@55294845@Rua@S@R Othoniel C Gueiros@INS@
+1303738@PE@5259@52635@@Sargento José Adeildo do Nascimento dos Santos@( Conj Hab Viana & Moura São Vicente@55294809@Rua@S@R Srg José A do N dos Santos@INS@
+1303739@PE@5259@52635@@Maria Anunciada Cadengue do Amaral@( Conj Hab Viana & Moura São Vicente@55294811@Rua@S@R Maria A C do Amaral@INS@
+1303740@PE@5259@52635@@Professor Helon Cipriano@( Conj Hab Viana & Moura São Vicente@55294813@Rua@S@R Prf Helon Cipriano@INS@
+1303741@PE@5259@52635@@Wallyson Bezerra de Freitas@( Conj Hab Viana & Moura São Vicente@55294815@Rua@S@R Wallyson B de Freitas@INS@
+1303742@PE@5259@52635@@Nilson Pereira de Lima@( Conj Hab Viana & Moura São Vicente@55294880@Rua@S@R Nilson P de Lima@INS@
+1303743@PE@5259@52635@@Orlando Bispo da Costa@( Conj Hab Viana & Moura São Vicente@55294882@Rua@S@R Orlando Bpo da Costa@INS@
+1303744@PE@5259@52635@@Manoel Felix Sobrinho@( Conj Hab Viana & Moura São Vicente@55294884@Rua@S@R Manoel F Sobrinho@INS@
+1303745@PE@5259@52635@@Nelson Pereira de Lima@( Conj Hab Viana & Moura São Vicente@55294886@Rua@S@R Nelson Pereira de Lima@INS@
+1303746@PE@5259@52635@@Professora Janet de Albuquerque Cordeiro Lins@( Conj Hab Viana & Moura São Vicente@55294888@Rua@S@R Prfa Janet de A C Lins@INS@
+1303747@PE@5259@52635@@Aguinaldo Lopes Leal@( Conj Hab Viana & Moura São Vicente@55294890@Rua@S@R Aguinaldo L Leal@INS@
+1303751@PE@5406@7374@@Judith@- até 297/298@52130210@Rua@S@R Judith@INS@
+1303752@PE@5406@7305@@Judith@- de 299/300 ao fim@52130465@Rua@S@R Judith@INS@
+1303748@PE@5406@7374@@Conselheiro Barros Barreto@- até 349/350@52130170@Rua@S@R Cnso Barros Barreto@INS@
+1303749@PE@5406@7305@@Conselheiro Barros Barreto@- de 352 ao fim  - lado par@52130007@Rua@S@R Cnso Barros Barreto@INS@
+1303750@PE@5406@7344@@Conselheiro Barros Barreto@- de 351 ao fim  - lado ímpar@52130045@Rua@S@R Cnso Barros Barreto@INS@
+1300055@PE@5422@58816@@Luiz Francisco Bezerra da Silva@@55190652@Rua@S@R Luiz F B da Silva@UPD@55190652
+1303753@PE@5406@7319@@Corinto@@51010162@Travessa@S@Tv Corinto@INS@
+1303754@PI@5721@60791@@Rita Pereira Costa@@64013615@Rua@S@R Rita P Costa@INS@
+1303755@PI@5721@60791@@Vicença de Carvalho Sousa@@64013650@Rua@S@R Vicença de C Sousa@INS@
+1303756@PR@5783@77525@@Mosqueteirinho Cristado@@86703255@Rua@S@R Mosqueteirinho Cristado@INS@
+303198@PR@6308@9687@@Itororó@@87010460@Avenida@S@Av Itororó@UPD@87010460
+1303757@PR@6257@8980@@Guarani@@85303387@Rua@S@R Guarani@INS@
+1303758@PR@6709@56324@@Laércio Manchini@- até 895/896@87118532@Rua@S@R Laércio Manchini@INS@
+1303759@PR@6709@77599@@Laércio Manchini@- de 897/898 a 1046/1047@87118568@Rua@S@R Laércio Manchini@INS@
+1303760@PR@6709@56324@@Carlos Roberto Sibim@- até 963/964@87118537@Rua@S@R Carlos R Sibim@INS@
+1303761@PR@6709@77599@@Carlos Roberto Sibim@- de 965/966 a 1112/1113@87118566@Rua@S@R Carlos R Sibim@INS@
+1303762@PR@6709@77565@@Sebastião Francisco de Arruda@@87118547@Avenida@S@Av Sebastião F de Arruda@INS@
+1303763@PR@6709@77565@@Maria da Conceição Fabri de Arruda@@87118549@Avenida@S@Av Maria da C F de Arruda@INS@
+1303764@PR@6709@77565@@Lucas Emanuel de Souza Cantuária@@87118551@Avenida@S@Av Lucas E de S Cantuária@INS@
+1303765@PR@6709@77565@@Carlos Roberto Sibin@@87118553@Rua@S@R Carlos R Sibin@INS@
+1303766@PR@6709@77565@@Laércio Manchini@@87118555@Rua@S@R Laércio Manchini@INS@
+1303767@PR@6709@77565@@F@@87118556@Rua@S@R F@INS@
+1303768@PR@6709@77599@@das Torres@- até 99999999 - lado ímpar@87118562@Avenida@S@Av das Torres@INS@
+1303769@PR@6709@77599@@das Torres@- até 99999998 - lado par@87118564@Avenida@S@Av das Torres@INS@
+1303770@PR@6709@77599@@Baptista Bossato@@87118560@Estrada@S@Est Baptista Bossato@INS@
+1303771@PR@6709@77599@@Aparecido Avanço@@87118570@Rua@S@R Aparecido Avanço@INS@
+1303772@PR@6709@77599@@Paisagistica@@87118572@Rua@S@R Paisagistica@INS@
+1303773@PR@6709@77599@@Nova São Paulo@@87118574@Avenida@S@Av N S Paulo@INS@
+1303774@PR@6709@77599@@Antonio Avanço@@87118576@Rua@S@R Antonio Avanço@INS@
+1303775@PR@6709@77599@@Elvira Laveso Berton@@87118578@Rua@S@R Elvira L Berton@INS@
+1303776@PR@6709@77599@@Anezio Rosa@@87118580@Rua@S@R Anezio Rosa@INS@
+319251@RJ@6873@10842@@Jedihel Duarte de Azevedo@@28915400@Rua@S@R Jedihel D de Azevedo@UPD@28915400
+1303786@RJ@7043@12283@@Carmem Monegal@@23575227@Travessa@S@Tv Carmem Monegal@INS@
+1303787@RJ@7043@12283@@Dalva Lazaroni@@23575226@Rua@S@R Dalva Lazaroni@INS@
+1303788@RJ@7043@12283@@Kátia Duarte Ferreira@@23575225@Travessa@S@Tv Kátia D Ferreira@INS@
+1303789@RJ@7043@12283@@Lídia Matos@@23575224@Rua@S@R Lídia Matos@INS@
+962691@RJ@6971@55596@@Dois@@24924100@Rua@S@R Dois@UPD@24924100
+1303784@RJ@6971@55579@@Luís Carlos França@@24901015@Praça@S@Pç Luís C França@INS@
+1303785@RJ@6971@55597@@Projetada B@@24925475@Rua@S@R Projetada B@INS@
+1303777@RJ@6962@11291@@Maria Helena@@27947204@Rua@S@R Maria Helena@INS@
+1303778@RJ@6962@11291@@Nair@@27947202@Rua@S@R Nair@INS@
+1303779@RJ@6962@11291@@Neuza Maria@@27947207@Rua@S@R Neuza Maria@INS@
+1303780@RJ@6962@11291@@Regina Célia@@27947203@Rua@S@R Regina Célia@INS@
+1303781@RJ@6962@11291@@Renê Antônio de Souza@@27946137@Rua@S@R Renê A de Souza@INS@
+1303782@RJ@6962@11291@@Vanda Maria@@27947208@Rua@S@R Vanda Maria@INS@
+1019768@RJ@6964@57573@@Wolmer de Souza Prado@@25901627@Rua@S@R Wolmer de S Prado@UPD@25901627
+1303783@RJ@6964@57582@@Maria Cassemira Lopes de Jesus@@25904382@Rua@S@R Maria C L de Jesus@INS@
+1303798@RN@7221@12788@@Apóstolo João@@59139817@Rua@S@R Apost João@INS@
+1303799@RN@7221@12788@@Passagem dos Apóstolos@@59139815@Travessa@S@Tv Psg dos Apóstolos@INS@
+1303800@RN@7221@12794@@José Paulino@@59114666@Rua@S@R José Paulino@INS@
+1303801@RN@7221@12794@@Achiles Monteiro@@59114316@Travessa@S@Tv Achiles Monteiro@INS@
+1303802@RN@7229@44050@@da Consolação@@59146825@Rua@S@R da Consolação@INS@
+1303790@RJ@7078@60660@@Heitor Cardoso da Silva@@28940103@Rua@S@R Heitor C da Silva@INS@
+1303791@RJ@7102@12510@@Oscar Niemeyer@(Lot Jd Barra)@25965337@Rua@S@R Oscar Niemeyer@INS@
+1303792@RJ@7102@12510@@Roberto Burle Marx@(Lot Jd Barra)@25965338@Rua@S@R Roberto B Marx@INS@
+1303793@RJ@7102@12510@@Lina Bo Bardi@(Lot Jd Barra)@25965339@Rua@S@R Lina B Bardi@INS@
+1303794@RJ@7102@12510@@Lúcio Costa@(Lot Jd Barra)@25965336@Rua@S@R Lúcio Costa@INS@
+1303795@RJ@7102@12624@@Doutor Ricardo Augusto Teixeira Castilho@@25990132@Rua@S@R Dr Ricardo A T Castilho@INS@
+1303796@RN@7220@12753@@Francivan Geraldo da Silva@@59607792@Rua@S@R Francivan G da Silva@INS@
+1303797@RN@7220@12757@@José Luis da Silva@@59634850@Rua@S@R José Luis da Silva@INS@
+420802@SC@8390@63821@@Deputado Antônio Heil@@88352500@Rodovia@S@Rod Dep Antônio Heil@UPD@88352500
+420803@SC@8390@13827@@Deputado Antônio Heil@@88352501@Rodovia@S@Rod Dep Antônio Heil@UPD@88352501
+420804@SC@8390@13825@@Deputado Antônio Heil@@88352502@Rodovia@S@Rod Dep Antônio Heil@UPD@88352502
+420805@SC@8390@63821@@Deputado Antônio Heil@@88353100@Rodovia@S@Rod Dep Antônio Heil@UPD@88353100
+902660@SC@8390@13834@@Deputado Antônio Heil@@88352288@Rodovia@S@Rod Dep Antônio Heil@UPD@88352288
+1303803@SC@8390@13824@@Deputado Antônio Heil@@88356003@Rodovia@S@Rod Dep Antônio Heil@INS@
+1303804@SC@8390@13833@@Deputado Antônio Heil@@88352100@Rodovia@S@Rod Dep Antônio Heil@INS@
+1303805@SC@8419@61399@@Xanxerê - D@@89805260@Rua@S@R Xanxerê - D@INS@
+1303806@SC@8419@13850@@Xanxerê - E@@89805270@Rua@S@R Xanxerê - E@INS@
+1303807@SC@8419@61399@@Concórdia - D@@89811166@Rua@S@R Concórdia - D@INS@
+1303808@SC@8419@13850@@Concórdia - E@@89805286@Rua@S@R Concórdia - E@INS@
+1303809@SC@8419@61399@@Vilson Antonio Vivian - D@@89811160@Rua@S@R Vilson A Vivian - D@INS@
+1303810@SC@8419@13850@@Xaxim - E@@89805263@Rua@S@R Xaxim - E@INS@
+1303811@SC@8419@13850@@Seara - E@@89805283@Rua@S@R Seara - E@INS@
+1303812@SC@8419@61399@@Francismar Severino Tozzo - E@@89811169@Rua@S@R Francismar S Tozzo - E@INS@
+1303813@SC@8419@61399@@Francismar Severino Tozzo - D@- até 499/500@89811168@Rua@S@R Francismar S Tozzo - D@INS@
+1303814@SC@8419@61399@@Francismar Severino Tozzo - D@- de 501/502 ao fim@89811246@Rua@S@R Francismar S Tozzo - D@INS@
+1303815@SC@8463@35307@@Doralício Garcia@@89110013@Rua@S@R Doralício Garcia@INS@
+1303816@SC@8463@61608@@Doralício Garcia@@89112550@Rua@S@R Doralício Garcia@INS@
+1303817@SC@8521@14027@@Carlos Frederico Adolfo Schneider@@89205070@Rua@S@R Carlos F A Schneider@INS@
+1303818@SC@8521@14053@@Carlos Frederico Adolfo Schneider@@89221002@Rua@S@R Carlos F A Schneider@INS@
+1303819@SP@8883@14255@@Ottávio Tancredi@@13476210@Rua@S@R Ottávio Tancredi@INS@
+1303820@SP@8883@14238@@Ottávio Tancredi@@13475711@Rua@S@R Ottávio Tancredi@INS@
+1303821@SP@8883@14319@@Ottávio Tancredi@@13475731@Rua@S@R Ottávio Tancredi@INS@
+1303822@SP@8883@60790@@João Marcus Sacilotto@@13472644@Rua@S@R João M Sacilotto@INS@
+663538@SP@8907@14498@@Clibas de Almeida Prado@- de 6434 ao fim  - lado par@16058695@Rua@S@R Clibas de A Prado@UPD@16058695
+663542@SP@8907@14569@@Clibas de Almeida Prado@- de 1788 a 2314 - lado par@16072605@Rua@S@R Clibas de A Prado@UPD@16072605
+663543@SP@8907@14581@@Clibas de Almeida Prado@- de 2740 a 3374 - lado par@16075395@Rua@S@R Clibas de A Prado@UPD@16075395
+663544@SP@8907@14571@@Clibas de Almeida Prado@- de 3376 a 3700 - lado par@16075400@Rua@S@R Clibas de A Prado@UPD@16075400
+908911@SP@8907@53634@@Clibas de Almeida Prado@- de 4918 a 5506 - lado par@16058001@Rua@S@R Clibas de A Prado@UPD@16058001
+1303824@SP@8928@14975@@Rosa Janussi Carvalho@@12951462@Rua@S@R Rosa J Carvalho@INS@
+1303825@SP@8928@55154@@Nito Feitor@@12946899@Estrada Municipal@S@Est Mun Nito Feitor@INS@
+1287746@SP@8949@30752@@Pedro Ometto@- até 598/599@17340001@Avenida@S@Av Pedro Ometto@UPD@17340001
+1287747@SP@8949@76268@@Pedro Ometto@- de 600 a 1104 - lado par@17340250@Avenida@S@Av Pedro Ometto@UPD@17340250
+1287748@SP@8949@76264@@Pedro Ometto@- de 603 a 1103 - lado ímpar@17340082@Avenida@S@Av Pedro Ometto@UPD@17340082
+1287749@SP@8949@43698@@Pedro Ometto@- de 1105 a 1599 - lado ímpar@17340112@Avenida@S@Av Pedro Ometto@UPD@17340112
+1287750@SP@8949@49204@@Pedro Ometto@- de 1106 a 1818 - lado par@17340212@Avenida@S@Av Pedro Ometto@UPD@17340212
+1287751@SP@8949@49204@@Pedro Ometto@- de 1601 a 1817 - lado ímpar@17340210@Avenida@S@Av Pedro Ometto@UPD@17340210
+1287752@SP@8949@76270@@Pedro Ometto@- de 1819/1820 ao fim@17340444@Avenida@S@Av Pedro Ometto@UPD@17340444
+1303823@SP@8924@60019@@Vicente de Souza Prado@@07402285@Rua@S@R Vicente de S Prado@INS@
+1189302@SP@8967@65741@@Aprovada 616@@11259147@Rua@S@R Aprovada 616@UPD@11259147
+1303826@SP@8956@15425@@São Bento@@06415235@Rua@S@R S Bento@INS@
+1007232@SP@8989@57225@@Paulo Bruder@@18615401@Rua@S@R Paulo Bruder@UPD@18615401
+1303827@SP@8989@57226@@Paulo Bruder@@18615412@Rua@S@R Paulo Bruder@INS@
+1303828@SP@8989@57225@@Guilherme Antonio Bertani@@18615406@Rua@S@R Guilherme A Bertani@INS@
+1303829@SP@8989@57226@@Guilherme Antonio Bertani@@18615416@Rua@S@R Guilherme A Bertani@INS@
+1007241@SP@8989@57225@@Geraldo Pereira de Albuquerque@@18615408@Rua@S@R Geraldo P de Albuquerque@UPD@18615408
+1009257@SP@8989@57226@@Paulo Firmino de Oliveira@@18615417@Rua@S@R Paulo F de Oliveira@UPD@18615417
+1303830@SP@8989@77582@@Elvira Tardivo da Silva@@18617030@Rua@S@R Elvira T da Silva@INS@
+1303831@SP@8989@77582@@José Carlos de Oliveira@@18617032@Rua@S@R José C de Oliveira@INS@
+1303832@SP@8989@77582@@Gertrudes Maria de Souza@@18617034@Rua@S@R Gertrudes M de Souza@INS@
+432909@SC@8521@43058@@Rudolpho Krelling@@89239730@Estrada@S@Est Rudolpho Krelling@UPD@89239730
+433440@SC@8521@14052@@Francisco Antônio Fleith@@89239450@Estrada@S@Est Francisco A Fleith@UPD@89239450
+433847@SC@8521@43058@@Fazenda@@89239652@Estrada@S@Est Fazenda@UPD@89239652
+1293408@SC@8521@14048@@Alberto Bernardo Baumgarten@@89215057@Rua@S@R Alberto B Baumgarten@UPD@89215057
+1303836@SP@9036@66070@@Hélio Golveia de Melo@@18990003@Rua@S@R Hélio G de Melo@INS@
+1303837@SP@9036@77580@@Hélio Golveia de Melo@@18990034@Rua@S@R Hélio G de Melo@INS@
+1303838@SP@9036@66071@@Ormelindo Batista@@18990018@Rua@S@R Ormelindo Batista@INS@
+1303839@SP@9036@77580@@Ormelindo Batista@@18990030@Rua@S@R Ormelindo Batista@INS@
+1303887@SP@9052@74625@@Bráulio Monte@@15807424@Rua@S@R Bráulio Monte@INS@
+1303888@SP@9052@77590@@Bráulio Monte@@15807462@Rua@S@R Bráulio Monte@INS@
+1303889@SP@9052@74625@@Antônio Lachi@@15807426@Rua@S@R Antônio Lachi@INS@
+1303890@SP@9052@77590@@Antônio Lachi@@15807463@Rua@S@R Antônio Lachi@INS@
+1303891@SP@9052@74625@@Fioravante Soligo@@15807427@Rua@S@R Fioravante Soligo@INS@
+1303892@SP@9052@77590@@Fioravante Soligo@@15807464@Rua@S@R Fioravante Soligo@INS@
+1303893@SP@9052@74625@@Olímpio Facundini@@15807428@Rua@S@R Olímpio Facundini@INS@
+1303894@SP@9052@77590@@Olímpio Facundini@@15807465@Rua@S@R Olímpio Facundini@INS@
+1303895@SP@9052@74625@@Maria Zanata Facundini@@15807429@Rua@S@R Maria Z Facundini@INS@
+1303896@SP@9052@77590@@Maria Zanata Facundini@@15807466@Rua@S@R Maria Z Facundini@INS@
+1303897@SP@9052@77590@@Cleusa Maria Teixeirense@@15807467@Rua@S@R Cleusa M Teixeirense@INS@
+1303898@SP@9052@77591@@Angelo Genoves@@15805247@Rua@S@R Angelo Genoves@INS@
+1303899@SP@9052@77591@@Vergínia Moreno Gil@@15805248@Rua@S@R Vergínia M Gil@INS@
+1303900@SP@9052@77591@@Rosana Casimiro dos Santos@@15805249@Rua@S@R Rosana C dos Santos@INS@
+1303901@SP@9052@77591@@Oswaldo Banhos@@15805252@Rua@S@R Oswaldo Banhos@INS@
+1303902@SP@9052@77591@@Carmem Bueno Genoves@@15805253@Rua@S@R Carmem B Genoves@INS@
+1303903@SP@9052@77592@@Gustavo Ravazzi@@15810081@Rua@S@R Gustavo Ravazzi@INS@
+1303904@SP@9052@77592@@Nicolau Senise@@15810082@Rua@S@R Nicolau Senise@INS@
+1303840@SP@9036@66079@@Maria José Gimenes Giraldi@@18990452@Rua@S@R Maria J G Giraldi@INS@
+1303841@SP@9036@66703@@Maria José Gimenes Giraldi@@18990483@Rua@S@R Maria J G Giraldi@INS@
+1303842@SP@9036@77580@@Tiradentes@@18990032@Rua@S@R Tiradentes@INS@
+1303843@SP@9036@77581@@Fortuna@@18990220@Rua@S@R Fortuna@INS@
+1303844@SP@9036@77581@@19 de Maio@@18990222@Avenida@S@Av 19 de Maio@INS@
+1303845@SP@9036@77581@@Rosa Marcina Potendura Evangelista@@18990224@Rua@S@R Rosa M P Evangelista@INS@
+1303846@SP@9036@77581@@Joaquim Teixeira@@18990226@Rua@S@R Joaquim Teixeira@INS@
+1303847@SP@9036@77581@@15 de Agosto@@18990228@Rua@S@R 15 de Agosto@INS@
+1303848@SP@9036@77581@@07 de Setembro@@18990230@Rua@S@R 07 de Setembro@INS@
+1303849@SP@9036@77581@@01 de Maio@@18990232@Rua@S@R 01 de Maio@INS@
+1303850@SP@9036@77581@@Alberto Totti@@18990234@Rua@S@R Alberto Totti@INS@
+1303851@SP@9036@77581@@09 de Julho@@18990236@Rua@S@R 09 de Julho@INS@
+1303852@SP@9036@77581@@19 de Abril@@18990238@Rua@S@R 19 de Abril@INS@
+1303853@SP@9036@77581@@15 de Novembro@@18990240@Rua@S@R 15 de Novembro@INS@
+1303876@SP@9052@17181@@das Orquídeas@@15804379@Rua@S@R das Orquídeas@INS@
+1303877@SP@9052@77591@@das Orquídeas@@15805244@Rua@S@R das Orquídeas@INS@
+1303878@SP@9052@17217@@Otávio Gouveia@@15810115@Rua@S@R Otávio Gouveia@INS@
+1303879@SP@9052@77592@@Otávio Gouveia@@15810084@Rua@S@R Otávio Gouveia@INS@
+1303880@SP@9052@77590@@Palmares@@15807460@Avenida@S@Av Palmares@INS@
+1303905@SP@9082@17243@@João Batista Pires de Camargo@@06726485@Rua@S@R João B P de Camargo@INS@
+1303906@SP@9082@17243@@Elizeu Pires de Camargo@@06726483@Travessa@S@Tv Elizeu P de Camargo@INS@

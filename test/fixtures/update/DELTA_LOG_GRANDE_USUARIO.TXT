@@ -1,0 +1,101 @@
+16877@AP@307@222@701574@Polícia Federal@Avenida Ernestino Borges, 1402@68908901@Pol Federal@UPD@68908901
+25453@BA@1116@53276@885243@Vog Fiori@Avenida B, 100@45012901@Vog Fiori@UPD@45012901
+25454@BA@1116@53276@885243@Vog Primavera@Avenida B, 95@45012900@Vog Primavera@UPD@45012900
+16976@MG@2754@37342@691807@Rima Industrial S/A@Rodovia Anel Rodoviário Celso Mello Azevedo, km 4,5@30622910@Rima Industrial S/A@UPD@30622910
+16977@MG@2754@37342@691807@Belgo Mineira@Rodovia Anel Rodoviário Celso Mello Azevedo, Km 3@30622920@Belgo Mineira@UPD@30622920
+30163@MG@3221@40387@@AC Indianópolis Clique e Retire@Rua Irineu Alves Rabelo, 107@38490959@AC I C Retire@UPD@38490959
+3260@PR@6268@9078@299311@Construtora Khouri@Rodovia Celso Garcia Cid, 1266@86070900@Construtora Khouri@UPD@86070900
+3076@PI@5721@7468@275699@Edifício Vile France@Rua Primeiro de Maio, 258/n@64000908@Ed Vile France@UPD@64000908
+3112@PR@6015@8645@292430@UTFPR - Universidade Tecnológica Federal do Paraná@Avenida Sete de Setembro, 3165@80230901@UTFPR - Universidade T Fed Paraná@UPD@80230901
+2078@MS@4152@6351@900192@17º Bc@Rua Cáceres, s/n@79304901@17º Bc@UPD@79304901
+10395@PI@5658@7443@273648@Comercial Caboclo@Avenida Deputado Pinheiro Machado, 1550@64212900@Comercial Caboclo@UPD@64212900
+18735@PA@4677@6833@837309@Açailandia Encomendas e Cargas@Quadra Quinze, 07@68507905@Açailandia E Cargas@UPD@68507905
+2841@PE@5406@7352@266852@Imperial Diesel S/A@Avenida Marechal Mascarenhas de Moraes, 5653@51150902@Imperial Diesel S/A@UPD@51150902
+2861@PE@5406@7352@266852@NORASA - Nordeste Automotores S/A@Avenida Marechal Mascarenhas de Moraes, 5653@51150901@NORASA - Nordeste Automotores S/A@UPD@51150901
+2912@PE@5406@7352@266852@Xerox do Brasil S/A@Avenida Marechal Mascarenhas de Moraes, 5865@51150903@Xerox Brasil S/A@UPD@51150903
+1853@MS@4141@6189@1241691@Cobel Engenharia - Pedreira Novo Horizonte@Rua Joaquim Murtinho, 5842@79041905@Cobel Engenharia - Pedreira N Horizo@UPD@79041905
+35171@MT@4498@39001@1299233@Câmara Municipal de Tangará da Serra@Rua Júlio Martinez Benevides, 195@78300900@Câmara Mun T Serra@INS@
+35172@MT@4498@77247@1299071@Prefeitura Municipal de Tangará da Serra@Avenida Brasil, 2351-N@78300901@Prefeitura Mun T Serra@INS@
+35173@MT@4498@77252@1299211@Fórum de Tangará da Serra@Avenida Tancredo de Almeida Neves, 1220-N@78302900@Fórum T Serra@INS@
+2156@MT@4511@6662@216400@Delegacia Federal da Agricultura@Rua Aníbal Molina Ribeiro, s/n@78115901@Delegacia Fed Agricultura@UPD@78115901
+24855@MT@4511@6662@216400@Condomínio Parque Chapada Verde@Rua Aníbal Molina Ribeiro, s/n@78115909@Cond Prq Chapada Verde@UPD@78115909
+24993@MT@4511@57427@218203@Condomínio Vila Nova Residencial@Rua Cônego Guimarães, s/n@78150900@Cond Vl N Residencial@UPD@78150900
+26459@MT@4511@31881@218041@Centro de Ressocialização de Várzea Grande - CRVG@Rua Colômbia, s/n@78132900@Centro R V Grande - CRVG@UPD@78132900
+34585@MT@4511@6662@1012664@AC Cristo Rei Clique e Retire@Avenida Dom Orlando Chaves, 1245@78115959@AC C R C Retire@UPD@78115959
+35169@MT@4511@6662@216400@CONAB - Companhia Nacional de Abastecimento@Rua Aníbal Molina Ribeiro, s/n@78115903@CONAB - Companhia N Abastecimento@INS@
+1953@MS@4141@6189@1241691@JV Comércio e Representações@Rua Joaquim Murtinho, 4665@79041904@JV C Representações@UPD@79041904
+2064@MS@4141@6206@930690@Universidade Católica Dom Bosco@Avenida Tamandaré, 6000@79117900@Universidade C D Bosco@UPD@79117900
+2217@PA@4565@6749@222348@Hospital Dom Luís@Avenida Generalíssimo Deodoro, 868@66055904@Hospital D Luís@UPD@66055904
+10788@PA@4565@6749@225603@Supermercados Nazaré@Travessa Quatorze de Março, 1670@66055903@Supermercados Nazaré@UPD@66055903
+6642@SP@9668@25467@598024@Condomínio Edifício Somblas@Rua João Cachoeira, 1287@04535903@Cond Ed Somblas@UPD@04535903
+6692@SP@9668@25986@611532@Condomínio L'Abitare@Rodovia Raposo Tavares, 3175@05573900@Cond L'Abitare@UPD@05573900
+6704@SP@9668@25461@593620@Condomínio Maria Paula@Rua Gaivota, 960@04522903@Cond Maria Paula@UPD@04522903
+6724@SP@9668@25254@606364@Condomínio Palomino@Rua Nebraska, 928@04560907@Cond Palomino@UPD@04560907
+35175@SP@9532@59480@1059883@Penitenciária Wellington Rodrigo Segura de Presidente Prudente@Estrada Irio Zuntini, Km 04@19036901@Penitenciária W R S Pres Prudente@INS@
+35176@SP@9532@59480@1059883@Centro de Ressocialização ASP Gláucio Reinaldo Mendes Pereira@Estrada Irio Zuntini, Km 04@19036902@Centro R A G R M Pereira@INS@
+6783@SP@9668@26110@602546@Condomínio Residencial Vera Cruz@Estrada do M'Boi Mirim, 2200@04905903@Cond Res Vera Cruz@UPD@04905903
+6784@SP@9668@25461@593620@Condomínio Rezende@Rua Gaivota, 988@04522904@Cond Rezende@UPD@04522904
+6807@SP@9668@25461@593620@Condomínio Vera Cruz@Rua Gaivota, 9@04522902@Cond Vera Cruz@UPD@04522902
+6171@SP@9668@25570@611532@Akzo Nobel@Rodovia Raposo Tavares, 8015@05577900@Akzo Nobel@UPD@05577900
+13489@SP@9369@43176@664723@Condomínio Estância Oropó@Avenida Prefeito Francisco Ribeiro Nogueira, 551@08766900@Cond Etn Oropó@UPD@08766900
+5336@SP@9370@21895@533664@Champion Papel e Celulose S/A@Rodovia SP-340, Km 171@13845901@Champion P Celulose S/A@UPD@13845901
+6278@SP@9668@25570@611532@Carrefour S.A.@Rodovia Raposo Tavares, 7201@05577901@Carrefour S.A.@UPD@05577901
+6354@SP@9668@25862@589128@Centro Empresarial Morumbi@Avenida Doutor Guilherme Dumont Vilares, 1210/1230@05640902@Centro E Morumbi@UPD@05640902
+5389@SP@9432@22040@537112@Edifício Alto das Colinas@Avenida Santo Antônio, 2142@06083905@Ed At Colinas@UPD@06083905
+5394@SP@9432@22040@535436@Edifício Bela Vista@Avenida Dionysia Alves Barreto, 540@06086904@Ed Bela Vista@UPD@06086904
+5401@SP@9432@22040@537112@Edifício Carvatal@Avenida Santo Antônio, 1333@06083901@Ed Carvatal@UPD@06083901
+5403@SP@9432@22040@537112@Edifício Dona Alice@Avenida Santo Antônio, 2114@06083904@Ed Da Alice@UPD@06083904
+5404@SP@9432@22040@537112@Edifício Dona Doracy@Avenida Santo Antônio, 2615@06083907@Ed Da Doracy@UPD@06083907
+5408@SP@9432@22040@535436@Edifício J. Gimenes@Avenida Dionysia Alves Barreto, 581@06086902@Ed J. Gimenes@UPD@06086902
+5409@SP@9432@22040@535436@Edifício Karla@Avenida Dionysia Alves Barreto, 265@06086900@Ed Karla@UPD@06086900
+5412@SP@9432@22040@537112@Edifício Margarida@Avenida Santo Antônio, 285@06086905@Ed Margarida@UPD@06086905
+5416@SP@9432@22040@537112@Edifício Monte Ararat@Avenida Santo Antônio, 1291@06083900@Ed Mte Ararat@UPD@06083900
+5419@SP@9432@22040@537112@Edifício Neusa Maria@Avenida Santo Antônio, 1861@06083903@Ed Neusa Maria@UPD@06083903
+5421@SP@9432@22040@535436@Edifício Regina@Avenida Dionysia Alves Barreto, 641@06086903@Ed Regina@UPD@06086903
+5424@SP@9432@22040@537112@Edifício Rosa Francesquete Lacotisse@Avenida Santo Antônio, 2375@06083906@Ed Rosa F Lacotisse@UPD@06083906
+5427@SP@9432@22040@537112@Edifício Santa Fé@Avenida Santo Antônio, 1339@06083902@Ed Sta Fé@UPD@06083902
+5429@SP@9432@22040@535436@Edifício São Paulo@Avenida Dionysia Alves Barreto, 411@06086901@Ed S Paulo@UPD@06086901
+6458@SP@9668@26500@586991@Condomínio Camare@Avenida do Cursino, 94/104@04132900@Cond Camare@UPD@04132900
+6470@SP@9668@25224@591934@Condomínio Conjunto Jardim Bertioga@Rua Fernando Falcão, 903@03180900@Cond Cj Jd Bertioga@UPD@03180900
+6482@SP@9668@26781@606241@Condomínio das Nações@Rua Nanuque, 115@05302900@Cond Nações@UPD@05302900
+6486@SP@9668@26445@602546@Condomínio do Sol@Estrada do M'Boi Mirim, 1832@04905902@Cond Sol@UPD@04905902
+6621@SP@9668@26261@621344@Condomínio Edifício Rio Verde@Rua Luís Martins, 5@05060900@Cond Ed Rio Verde@UPD@05060900
+19700@SC@8390@13821@420802@HAVAN@Rodovia Deputado Antônio Heil, 191@88353903@HAVAN@UPD@88353903
+4135@SP@8883@14232@442300@Fábrica de Tecidos Tatuapé@Avenida Nicolau João Abdalla, 4125@13474903@Fábrica T Tatuapé@UPD@13474903
+35177@SP@8907@14493@445550@Centro de Ressocialização de Araçatuba@Rua Sacadura Cabral, 251@16055900@Centro R Araçatuba@INS@
+4383@SP@8961@15451@458581@Edifício Clemente Faria@Rua Rio Branco, 19@17010903@Ed Clemente Faria@UPD@17010903
+4385@SP@8961@15451@459112@Edifício Pioneiro@Avenida Rodrigues Alves, 40@17015901@Ed Pioneiro@UPD@17015901
+4768@SP@9113@17702@707931@Arbame S.A. Material Elétrico Eletrônico@Rua Professor Mário Osassa, 140@06833903@Arbame S.A. M E Eletrônico@UPD@06833903
+9141@SP@9768@28646@666505@Indústrias Gessy Lever@Rua Campos Salles, 20@13271900@Indústrias G Lever@UPD@13271900
+7530@SP@9668@26781@606241@Edifício J. S. Wilke@Rua Nanuque, 394@05302902@Ed J. S Wilke@UPD@05302902
+7573@SP@9668@25254@606364@Edifício Julieta@Rua Nebraska, 199@04560901@Ed Julieta@UPD@04560901
+7608@SP@9668@25254@606364@Edifício Linhares@Rua Nebraska, 251@04560902@Ed Linhares@UPD@04560902
+7609@SP@9668@26781@606241@Edifício Lio@Rua Nanuque, 460@05302904@Ed Lio@UPD@05302904
+6888@SP@9668@25278@587941@Conjunto Residencial Garavelo@Rua Dom Armando Lombardi, 80@05616900@Cj Res Garavelo@UPD@05616900
+7634@SP@9668@25467@598024@Edifício Mafra@Rua João Cachoeira, 250@04535900@Ed Mafra@UPD@04535900
+11885@SP@9668@26858@588234@Condomínio Comercial e Residencial Paraíso@Rua Domingos de Morais, 770/814@04014902@Cond Comercial Res Paraíso@UPD@04014902
+11886@SP@9668@26858@588234@Condomínio Edifício Bartira@Rua Domingos de Morais, 1368/1372@04010905@Cond Ed Bartira@UPD@04010905
+11964@SP@9668@26491@598229@Prodot@Avenida João Dias, 966/1084@04724903@Prodot@UPD@04724903
+7750@SP@9668@25254@606364@Edifício Nebraska@Rua Nebraska, 59@04560900@Ed Nebraska@UPD@04560900
+8687@SP@9668@25898@611532@Racional Engenharia S.A.@Rodovia Raposo Tavares, Km 14,2@05576901@Racional Engenharia S.A.@UPD@05576901
+7057@SP@9668@25467@598024@Edifício Arcada Comercial@Rua João Cachoeira, 571@04535901@Ed Arcada Comercial@UPD@04535901
+8716@SP@9668@25535@611532@Rohm do Brasil Indústria e Comércio Ltda@Rodovia Raposo Tavares, Km 14@05576900@Rohm B I Comércio Ltda@UPD@05576900
+8729@SP@9668@26449@591149@SABESP - Saneamento Básico do Estado de São Paulo@Avenida do Estado, 561@01107900@SABESP - Saneamento B E S Paulo@UPD@01107900
+12122@SP@9668@25461@596156@Edifício Sara Sebastian@Avenida dos Imarés, 523/527@04085900@Ed Sara Sebastian@UPD@04085900
+7146@SP@9668@25461@593620@Edifício Billis Gardes@Rua Gaivota, 1092@04522905@Ed Billis Gardes@UPD@04522905
+8868@SP@9668@25224@606287@Tecelagem Nossa Senhora da Conceição@Rua Natal, 583@03186900@Tecelagem N Sra Conceição@UPD@03186900
+8913@SP@9668@25254@606364@V M Comunicações Ltda@Rua Nebraska, 806@04560906@V M Comunicações Ltda@UPD@04560906
+7241@SP@9668@25254@606364@Edifício Clarissa@Rua Nebraska, 477@04560904@Ed Clarissa@UPD@04560904
+7245@SP@9668@25461@593620@Edifício Cléa Amália@Rua Gaivota, 3@04522900@Ed Cléa Amália@UPD@04522900
+7272@SP@9668@25467@598024@Edifício Condomínio Mansões Florentinas@Rua João Cachoeira, 892@04535902@Ed Cond Mansões Florentinas@UPD@04535902
+7305@SP@9668@25461@593620@Edifício Cruzeiro do Sul@Rua Gaivota, 7@04522901@Ed Cruzeiro Sul@UPD@04522901
+8113@SP@9668@26264@601516@Edifício Vera Cruz@Rua da Liberdade, 91@01503903@Ed Vera Cruz@UPD@01503903
+10809@SP@9668@26978@607336@Condomínio Bosque da Princesa@Avenida do Oratório, 5800@03220901@Cond Bsq Princesa@UPD@03220901
+10810@SP@9668@26978@607336@Condomínio Passo Imperial@Avenida do Oratório, 5934@03220902@Cond Passo Imperial@UPD@03220902
+7343@SP@9668@26005@606971@Edifício Eletropaulo@Avenida Nove de Julho, 4865/4877@01407902@Ed Eletropaulo@UPD@01407902
+8114@SP@9668@25254@606364@Edifício Vera Maria@Rua Nebraska, 497@04560905@Ed Vera Maria@UPD@04560905
+8234@SP@9668@25254@606364@F L Smith S.A.@Rua Nebraska, 443@04560903@F L Smith S.A.@UPD@04560903
+8266@SP@9668@25263@620980@Folha de São Paulo "Jornal"@Alameda Barão de Limeira, 401/425/454@01202900@Folha S P "Jornal"@UPD@01202900
+32055@MA@2617@30634@@AC Vitória do Mearim Clique e Retire@Praça Cônego Eliude, s/n@65350959@AC V M C Retire@DEL@
+26901@RN@7225@38207@@AC Ouro Branco Clique e Retire@Rua Manoel Correa, 159@59347959@AC O B C Retire@DEL@
+31070@RS@7965@13454@1041963@AC Três Vendas Clique e Retire@Avenida Fernando Osório, 940@96030959@AC T V C Retire@DEL@

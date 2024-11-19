@@ -1,0 +1,33 @@
+43283@SP@9189@Vila Real Continuação@Vl Real Continuação@UPD
+77591@SP@9052@Bosque das Laranjeiras@Bsq Laranjeiras@INS
+77608@SP@9342@Centro Prisional@Centro Prisional@INS
+77609@SP@9230@Centro Prisional@Centro Prisional@INS
+77607@SP@9103@Centro Prisional@Centro Prisional@INS
+77596@SP@9274@Córrego do Marimbondo@Crg Marimbondo@INS
+77580@SP@9036@Distrito Industrial II@Dt Industrial II@INS
+77593@SP@9037@Distrito Turvo dos Almeidas@Dt Turvo Almeidas@INS
+77605@SP@9530@Guaiçara@Guaiçara@INS
+77606@SP@9750@Guaraciaba@Guaraciaba@INS
+77590@SP@9052@Jardim Bonsucesso@Jd Bonsucesso@INS
+77587@SP@9197@Jardim São Silvestre@Jd S Silvestre@INS
+77598@SP@9660@Loteamento Vivant Urbanova@Lot Vivant Urbanova@INS
+77602@SP@9014@Nova Caiuá@N Caiuá@INS
+77581@SP@9036@Nova Canitar@N Canitar@INS
+77589@SP@9673@Núcleo Vila Carioca@Nuc Vl Carioca@INS
+77582@SP@8989@Patrimônio Santo Antônio de Sorocaba@Patrimônio Sto A Sorocaba@INS
+77584@SP@9197@Residencial Cambuí@Res Cambuí@INS
+77583@SP@9197@Residencial Dona Marly Arantes@Res Da Marly Arantes@INS
+77592@SP@9052@Residencial Felicidade@Res Felicidade@INS
+77586@SP@9197@Residencial Planalto Paraíso I@Res Planalto Paraíso I@INS
+77585@SP@9197@Residencial Santa Isabel@Res Sta Isabel@INS
+77595@SP@9197@Residencial Terras do Imperio@Res Terras Imperio@INS
+77601@SP@9364@Ribeirão Claro@Ribeirão Claro@INS
+77610@SP@9324@União@União@INS
+76399@SP@9009@Área Industrial Polo Pet - Francisco Contrera@A Ind Polo Pet - Francisco Contrera@UPD
+77613@MT@4300@Residencial Peixinho@Res Peixinho@INS
+64427@GO@2234@Residencial São Rafael@Res S Rafael@UPD
+77604@MG@3332@Estância das Orquídeas@Etn Orquídeas@INS
+77599@PR@6709@Jardim Centro Cívico@Jd Centro Cívico@INS
+77600@PR@6709@Jardim Parque das Cerejeiras@Jd Prq Cerejeiras@INS
+75324@SP@9009@Área Industrial Senhor Antônio Gasparini@A Ind Sr Antônio Gasparini@UPD
+75336@SP@9009@Área Industrial Senhor Luiz Carlos Bernardes@A Ind Sr Luiz C Bernardes@UPD
