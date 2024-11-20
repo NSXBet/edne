@@ -25,6 +25,7 @@ func TestMasterParser(t *testing.T) {
 	addr := addresses[zipCode]
 	require.NotNil(t, addr)
 
+	require.Equal(t, "Rua", addr.StreetType)
 	require.Equal(t, "São Bento", addr.Street)
 	require.Equal(t, "Mosteiro Bento", addr.City)
 	require.Equal(t, "Cruz de São Bento", addr.Neighborhood)

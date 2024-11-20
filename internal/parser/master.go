@@ -46,6 +46,7 @@ func (p *MasterParser) Parse(base, update string) (map[int]models.Address, error
 		}
 
 		addresses[zipCode] = models.Address{
+			StreetType:   street.Type,
 			Street:       street.Name,
 			Neighborhood: neighborhood.Name,
 			City:         location.Name,

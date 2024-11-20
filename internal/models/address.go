@@ -70,6 +70,7 @@ func LocationMap(locations []Location) map[int]Location {
 }
 
 type Address struct {
+	StreetType   string
 	Street       string
 	Neighborhood string
 	City         string
